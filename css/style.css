@@ -901,3 +901,23 @@ h3 {
 .bikehours{
   width: 700px!important;
 }
+
+.interview{
+  height: 87vh;
+  margin-top: 20vh;
+  background-color: #539e41;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}
+.video-x{
+  height: 60vh;
+
+}
+h7{
+  margin: 20px 0px 40px 0px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+}
