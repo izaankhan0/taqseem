@@ -932,6 +932,7 @@ h7{
   align-items: center;
   flex-direction: column;
   padding: 50px 0px;
+  overflow: hidden;
 }
 .document1 > h6{
   font-weight: 700;
